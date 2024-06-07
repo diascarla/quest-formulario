@@ -18,15 +18,6 @@ btn.addEventListener('click', (evento) =>{
     });
 });
 
-// if (item.value !== "") {
-//     item.classList.remove("ativo");
-//     item.classList.add("ativo");
-
-// } else{
-//     item.classList.remove("vazio");
-//     item.classList.add("vazio");
-//     item.nextElementSibling.classList.add("aparecer")
-// }
 
 
 
